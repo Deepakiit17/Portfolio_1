@@ -2,7 +2,7 @@
 
 Live Preview at : https://myself.now.sh/
 
-### Hi there 👋 I am Sachin, a full stack web and app developer. I love to build new things that excites me a lot.
+### Hi there 👋 I am Deepak, a full stack web and app developer. I love to build new things that excites me a lot.
 
 # buy-me-a-coffee
 
