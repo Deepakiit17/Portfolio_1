@@ -66,11 +66,11 @@ class Education extends Component {
                     </div>
                     <div className={classes.label}>
                       <h2>
-                        Undergraduation at SLIET <span>2017-2021</span>
+                        Undergraduation at IIT Guwahati <span>2013-2017</span>
                       </h2>
                       <p>
-                        I completed my undergraduation in CSE (Computer Science and Engineering)
-                        from <a href='http://sliet.ac.in/'>SLIET</a> with overall 82.71%.
+                        I completed my undergraduation in CST (Chemical Science and Technology) from{' '}
+                        <a href='https://www.iitg.ac.in/'>IIT Guwahati</a>
                       </p>
                     </div>
                   </article>
@@ -88,11 +88,11 @@ class Education extends Component {
                     </div>
                     <div className={classes.label}>
                       <h2>
-                        Higher Education <span>2014-2016</span>
+                        Higher Education <span>2010-2012</span>
                       </h2>
                       <p>
-                        I have completed my higher education from HKIS with major subjects as
-                        Physics,Chemistry & Maths with 85% merit in CBSE board.{' '}
+                        I have completed my higher education from Maa Bharti School, Kota with major
+                        subjects as Physics,Chemistry & Maths with 80% merit in RBSE board.{' '}
                       </p>
                     </div>
                   </article>

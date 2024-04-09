@@ -27,7 +27,7 @@ export default function CarouselImage() {
         <div>
           <img className={classes.image} src={Hello} alt='myImage' />
           <div className={classes.h1}>
-            I'm Sachin
+            I'm Deepak
             <motion.h1
               initial={{ scale: 1 }}
               animate={{ scale: [1, 1.2, 1] }} // Define the scale values for the bouncing effect
@@ -37,7 +37,7 @@ export default function CarouselImage() {
               }}
             >
               <a
-                href='https://drive.google.com/file/d/1XwQYRl06QtuNPT8v4fHkbajk1ll9LTbi/view?usp=sharing'
+                href='https://drive.google.com/file/d/13EnbdFRurLwzFq5-p2lrEPa07XUwq8Cb/view?usp=sharing'
                 rel='opener noreferrer'
                 target='_blank'
               >
